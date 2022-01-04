@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Muratcan
 ![](https://cdna.artstation.com/p/assets/images/images/030/310/486/large/serain-tars.jpg?1600218773)
 
-I am on a journey that leads me to frontend web development and currently learning javascript, reactjs, firebase.
+I am on a journey that leads me to Front-End Web Development and currently learning javascript, reactjs, firebase.
 
-Skills: REACT / JS / HTML / CSS / C#
+Skills: REACT   /   JS  /   HTML  /   CSS   /   C#
 
 - 📫 How to reach me: on social 
 
